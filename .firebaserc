@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "my-first-angular-app-boi": {
+      "hosting": {
+        "my-first-angular-app": [
+          "my-first-angular-app-boi"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "my-first-angular-app-boi"
+  }
+}
